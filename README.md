@@ -1,1 +1,1 @@
-# Fashion---Bias---Network-Analysis
+# Fashion-Bias-Network-Analysis
